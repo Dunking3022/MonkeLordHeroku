@@ -1,0 +1,26 @@
+{
+  "content": "Bot Name",
+  "embeds": [
+    {
+      "description": "This command lists all the possible commands which can be used to interact with the bot.",
+      "author": {
+        "name": "Help",
+        "icon_url": "http://4.bp.blogspot.com/-wuUbc-OPOt4/T3ioPh2pAAI/AAAAAAAAAdM/BFFvS5fxVMY/w1200-h630-p-k-no-nu/Questionmark.jpg"
+      }
+    },
+    {
+      "description": "Bot blesses you. ",
+      "author": {
+        "name": " ",
+        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4775695.jpg&f=1&nofb=1"
+      }
+    },
+    {
+      "description": "Set status as idle",
+      "color": 16777215,
+      "author": {
+        "name": "Go Sleep",
+        "icon_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.forgecdn.net%2Favatars%2F170%2F652%2F636723641550179947.png&f=1&nofb=1"
+      }
+    }
+  ]
