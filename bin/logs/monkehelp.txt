@@ -1,0 +1,12 @@
+Monke Lord - Created by the community of Ram Ranch.
+
+List of all possible commands yet -
+Author image
+Help
+Monke tells you all the possible commands which can be used to interact with monkey. All commands should start with "Monke" followed by specific functions.
+Author image
+Bless 
+Monkey blesses you. 100% the best thing that'll happen to you today.
+Author image
+Go Sleep
+Monkey goes idle
