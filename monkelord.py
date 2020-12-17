@@ -8,6 +8,8 @@ from updown import *
 
 client = discord.Client()
 
+token = ""
+
 commands = ['help','bless','go','flip','register',"stats","transfer","daily",'play','top']
 
 bothelp = open('bin/logs/monkehelp.txt','r+').read()
@@ -245,5 +247,5 @@ async def on_message(message):
 
             
 #run-client
-client.run("Nzg0NDQyMTg5NTI1NTQ5MDY2.X8pWuA.I716rKJrE8w3YRB34Neud8NB4TI")
+client.run(token)
 
